@@ -1,0 +1,18 @@
+cd desktop
+cd git_j3( نام پوشه)
+git init
+پوشه پایتون را درس می کنیم
+git status(چه اتفاقی افتاده)
+git add .
+git log(تا حالا چه اتفاقی افتاده)
+git commit -m "add file main.py"(main.py = اسم فایل)(کل "" توی این دلخواه است)
+git log --oneline(کل اتفاقات را در یک خط توضیح می دهد)
+ما الان بر روی مستر کار می کنیم 
+git master(چند خط وجود دارد)
+git master sound(خط صدا را اضافه می کند)
+git checkout sound(وارد خط صدا می شود)
+پوشه صدا را اضافه می کنیم
+git merge sound(دو خط را یکی می کند)
+
+
+
